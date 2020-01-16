@@ -1,8 +1,8 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Big Tipper*
 
-**Name of your app** is a tip calculator application for iOS.
+*Big Tipper** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Malon Holmes**
 
 Time spent: **X** hours spent in total
 
