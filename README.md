@@ -33,7 +33,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Following along with the video was simple and fun, sometimes I got too carried away, but it'c cool.
+Challenges:
+ - Got a "THREAD 1: signal SIGABRT" error, correalating to an NSException
 
 ## License
 
